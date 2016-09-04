@@ -1,0 +1,572 @@
+05/03/16-12:22AM, Robertt, LOGIN, 192.168.56.128:60001, fail, ERR 02 BAD PASSWORD
+05/03/16-12:22AM, Robertt, LOGIN, 192.168.56.128:60001, fail, ERR 00 USER NAME TAKEN
+05/03/16-12:22AM, Roberdfdfdtt, LOGIN, 192.168.56.128:60001, fail, ERR 02 BAD PASSWORD
+05/03/16-12:22AM, Roberdfdfdtt, LOGIN, 192.168.56.128:60001, fail, ERR 01 USER NOT AVAILABLE
+05/03/16-12:35AM, Roberdfdfdtt, LOGIN, 192.168.56.128:60001, fail, ERR 01 USER NOT AVAILABLE
+05/03/16-12:35AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-12:35AM, Kim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-12:35AM, Kim, CMD, /time, success, client
+05/03/16-12:36AM, Kim, CMD, /chat, success, client
+05/03/16-12:36AM, Kim, CMD, /close, success, chat
+05/03/16-12:36AM, Robertt, CMD, /close, success, chat
+05/03/16-12:36AM, Robertt, CMD, /listu, success, client
+05/03/16-12:36AM, Robertt, CMD, /listu, success, client
+05/03/16-12:37AM, Kim, CMD, /time, success, client
+05/03/16-12:40AM, Robertt, CMD, /help, success, client
+05/03/16-12:40AM, Robertt, CMD, /time, success, client
+05/03/16-12:42AM, Robertt, LOGOUT, intentional
+05/03/16-12:42AM, Kim, LOGOUT, intentional
+05/03/16-12:43AM, Robertt, LOGIN, 192.168.56.128:60000, success, Testing audit log 
+05/03/16-12:43AM, Kim, LOGIN, 192.168.56.128:60000, success, Testing audit log 
+05/03/16-12:44AM, Kim, CMD, /time, success, client
+05/03/16-12:44AM, Robertt, CMD, /time, success, client
+05/03/16-12:44AM, Kim, CMD, /listu, success, client
+05/03/16-12:44AM, Robertt, CMD, /listu, success, client
+05/03/16-12:44AM, Kim, LOGOUT, intentional
+05/03/16-12:44AM, Robertt, LOGOUT, intentional
+05/03/16-12:47AM, Kim, LOGIN, 192.168.56.128:60000, success, Testing audit log 
+05/03/16-12:47AM, Kim, LOGOUT, error
+05/03/16-12:53AM, Robertt, LOGIN, 192.168.56.128:60001, fail, ERR 01 USER NOT AVAILABLE
+05/03/16-12:53AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-12:53AM, Kim, LOGIN, 192.168.56.128:60001, fail, ERR 01 USER NOT AVAILABLE
+05/03/16-12:53AM, Kim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-12:53AM, Kim, CMD, /chat, success, client
+05/03/16-12:53AM, Robertt, MSG, from, Kim, hey 
+05/03/16-12:53AM, Kim, MSG, to, Robertt, hey 
+05/03/16-12:53AM, Kim, MSG, to, Robertt, robertt are you there?
+05/03/16-12:53AM, Robertt, MSG, from, Kim, robertt are you there?
+05/03/16-12:54AM, Robertt, MSG, to, Kim, yea im here. whats up kim?
+05/03/16-12:54AM, Kim, MSG, from, Robertt, yea im here. whats up kim?
+05/03/16-12:54AM, Kim, MSG, to, Robertt, nothin gtg!
+05/03/16-12:54AM, Robertt, MSG, from, Kim, nothin gtg!
+05/03/16-12:54AM, Kim, CMD, /close, success, chat
+05/03/16-12:54AM, Robertt, CMD, /close, success, chat
+05/03/16-12:54AM, Robertt, CMD, /time, success, client
+05/03/16-12:55AM, Robertt, LOGOUT, intentional
+05/03/16-12:55AM, Kim, LOGOUT, intentional
+05/03/16-12:57AM, Kim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-12:57AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-12:57AM, Robertt, CMD, /chat, success, client
+05/03/16-12:57AM, Kim, MSG, from, Robertt, hey 
+05/03/16-12:57AM, Robertt, MSG, to, Kim, hey 
+05/03/16-12:57AM, Robertt, MSG, to, Kim, gtg sorry!
+05/03/16-12:57AM, Kim, MSG, from, Robertt, gtg sorry!
+05/03/16-12:57AM, Robertt, CMD, /close, success, chat
+05/03/16-12:57AM, Kim, CMD, /close, success, chat
+05/03/16-12:57AM, Robertt, CMD, /time, success, client
+05/03/16-01:06AM, Robertt, LOGOUT, error
+05/03/16-01:06AM, Kim, LOGOUT, error
+05/03/16-03:10AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:11AM, Robertt, LOGOUT, intentional
+05/03/16-03:12AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:12AM, Robertt, CMD, /time, success, client
+05/03/16-03:12AM, Robertt, LOGOUT, intentional
+05/03/16-03:13AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:13AM, Robertt, LOGOUT, intentional
+05/03/16-03:19AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:19AM, Robertt, CMD, /time, success, client
+05/03/16-03:19AM, Robertt, CMD, /audit, success, client
+05/03/16-03:20AM, Robertt, CMD, /audit, success, client
+05/03/16-03:23AM, Robertt, LOGOUT, intentional
+05/03/16-03:23AM, Robertt, LOGIN, 192.168.56.128:60001, fail, ERR 02 BAD PASSWORD
+05/03/16-03:23AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:23AM, Robertt, CMD, /help, success, client
+05/03/16-03:24AM, Kim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:25AM, Jim, LOGIN, 192.168.56.128:60001, fail, ERR 01 USER NOT AVAILABLE
+05/03/16-03:25AM, Jim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:25AM, Robertt, CMD, /audit, success, client
+05/03/16-03:25AM, Kim, CMD, /audit, success, client
+05/03/16-03:25AM, Jim, CMD, /audit, success, client
+05/03/16-03:33AM, Kim, LOGOUT, intentional
+05/03/16-03:33AM, Robertt, LOGOUT, error
+05/03/16-03:33AM, Jim, LOGOUT, intentional
+05/03/16-03:37AM, Robertt, LOGIN, 192.168.56.128:60001, fail, ERR 01 USER NOT AVAILABLE
+05/03/16-03:37AM, Robertt, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:38AM, Robertt, CMD, /audit, success, client
+05/03/16-03:38AM, Robertt, CMD, clear, fail, client
+05/03/16-03:38AM, Kim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:38AM, Jim, LOGIN, 192.168.56.128:60001, success, welcome to krinc server 
+05/03/16-03:39AM, Kim, CMD, /audit, success, client
+05/03/16-03:39AM, Robertt, CMD, /audit, success, client
+05/03/16-03:39AM, Jim, CMD, /audit, success, client
+05/03/16-03:49AM, Robertt, LOGOUT, intentional
+05/03/16-03:49AM, Kim, CMD, /audit, success, client
+05/03/16-03:49AM, Kim, CMD, /audit, success, client
+05/03/16-03:49AM, Kim, LOGOUT, intentional
+05/05/16-05:26AM, Jim, LOGIN, 192.168.56.128:60000, success, testing list_lock 
+05/05/16-05:26AM, Jim, CMD, /audit, success, client
+05/05/16-05:27AM, Kim, LOGIN, 192.168.56.128:60000, fail, ERR 00 USER NAME TAKEN
+05/05/16-05:27AM, Kim, LOGIN, 192.168.56.128:60000, success, testing list_lock 
+05/05/16-05:27AM, Kim, CMD, /time, success, client
+05/05/16-05:56AM, Kim, LOGOUT, error
+05/05/16-05:56AM, Jim, LOGOUT, error
+05/05/16-05:57AM, Jim, LOGIN, 192.168.56.128:60000, success, testing list_lock 
+05/05/16-05:57AM, Kim, LOGIN, 192.168.56.128:60000, success, testing list_lock 
+05/05/16-05:57AM, Kim, LOGOUT, intentional
+05/05/16-05:57AM, Jim, LOGOUT, error
+05/05/16-05:58AM, Jim, LOGIN, 192.168.56.128:60001, fail, ERR 02 BAD PASSWORD
+05/05/16-05:58AM, Jim, LOGIN, 192.168.56.128:60001, fail, ERR 02 BAD PASSWORD
+05/05/16-06:00AM, Mikey3, LOGOUT, intentional
+05/05/16-06:00AM, Mikey2, LOGOUT, intentional
+05/05/16-06:00AM, Mikey1, LOGOUT, intentional
+05/05/16-06:03AM, Mikey4, LOGIN, 192.168.56.128:60002, success, testing locks 
+05/05/16-06:03AM, Mikey2, LOGIN, 192.168.56.128:60002, success, testing locks 
+05/05/16-06:03AM, Mikey3, LOGIN, 192.168.56.128:60002, fail, ERR 02 BAD PASSWORD
+05/05/16-06:03AM, Mikey1, LOGIN, 192.168.56.128:60002, success, testing locks 
+05/05/16-06:08AM, Mikey2, CMD, /audit, success, client
+05/05/16-06:08AM, Mikey2, CMD, /audit, success, client
+05/05/16-06:09AM, Mikey4, LOGOUT, error
+05/05/16-06:09AM, Mikey2, LOGOUT, error
+05/05/16-06:09AM, Mikey1, LOGOUT, error
+05/06/16-04:12PM, Rob3, LOGOUT, error
+05/06/16-04:20PM, Rob2, LOGIN, 192.168.56.128:60001, success, 1 
+05/06/16-04:20PM, Rob3, LOGIN, 192.168.56.128:60001, success, 1 
+05/06/16-04:20PM, Rob3, LOGOUT, intentional
+05/06/16-04:20PM, Rob2, CMD, /time, success, client
+05/06/16-04:21PM, Rob2, CMD, , fail, client
+05/06/16-04:21PM, Rob5, LOGIN, 192.168.56.128:60001, success, 1 
+05/06/16-04:21PM, Rob4, LOGIN, 192.168.56.128:60001, success, 1 
+05/06/16-04:22PM, Rob2, CMD, /listu, success, client
+05/06/16-04:22PM, Rob2, CMD, /listu, success, client
+05/06/16-04:22PM, Rob2, CMD, /listu, success, client
+05/06/16-04:23PM, Rob2, CMD, /listu, success, client
+05/06/16-04:23PM, Rob2, CMD, /time, success, client
+05/06/16-04:23PM, Rob2, CMD, /listu, success, client
+05/06/16-04:23PM, Rob4, CMD, /listu, success, client
+05/06/16-04:23PM, Rob5, CMD, /listu, success, client
+05/06/16-04:25PM, Rob5, CMD, /audit, success, client
+05/06/16-04:25PM, Rob2, CMD, /listu, success, client
+05/06/16-04:28PM, Rob4, LOGOUT, intentional
+05/06/16-04:28PM, Rob5, CMD, /time, success, client
+05/06/16-04:28PM, Rob2, LOGOUT, intentional
+05/06/16-04:29PM, Rob5, LOGOUT, error
+05/06/16-04:30PM, Rob5, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:30PM, Rob2, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:31PM, Rob5, CMD, /time, success, client
+05/06/16-04:31PM, Rob2, CMD, /time, success, client
+05/06/16-04:31PM, Rob5, CMD, /listu, success, client
+05/06/16-04:31PM, Rob2, CMD, /listu, success, client
+05/06/16-04:31PM, Rob4, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:32PM, Rob5, LOGOUT, error
+05/06/16-04:32PM, Rob2, LOGOUT, error
+05/06/16-04:32PM, Rob4, LOGOUT, error
+05/06/16-04:33PM, Rob1, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:33PM, Rob6, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:33PM, Rob3, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:43PM, Rob1, CMD, /time, success, client
+05/06/16-04:43PM, Rob1, CMD, sd, fail, client
+05/06/16-04:43PM, Rob1, CMD, /audit, success, client
+05/06/16-04:43PM, Rob1, CMD, /listu, success, client
+05/06/16-04:43PM, Rob3, CMD, /listu, success, client
+05/06/16-04:43PM, Rob6, CMD, /listu, success, client
+05/06/16-04:43PM, Rob1, CMD, /listu, success, client
+05/06/16-04:43PM, Rob3, CMD, /listu, success, client
+05/06/16-04:43PM, Rob6, CMD, /listu, success, client
+05/06/16-04:43PM, Rob1, CMD, /listu, success, client
+05/06/16-04:44PM, Rob3, CMD, /listu, success, client
+05/06/16-04:44PM, Rob6, CMD, /listu, success, client
+05/06/16-04:44PM, Rob1, CMD, /listu, success, client
+05/06/16-04:44PM, Rob3, CMD, /time, success, client
+05/06/16-04:44PM, Rob6, CMD, /time, success, client
+05/06/16-04:44PM, Rob1, CMD, /time, success, client
+05/06/16-04:44PM, Rob3, CMD, /listu, success, client
+05/06/16-04:44PM, Rob6, CMD, /listu, success, client
+05/06/16-04:44PM, Rob1, CMD, /listu, success, client
+05/06/16-04:44PM, Rob3, LOGOUT, intentional
+05/06/16-04:44PM, Rob1, LOGOUT, intentional
+05/06/16-04:44PM, Rob6, LOGOUT, intentional
+05/06/16-04:49PM, Rob8, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:49PM, Rob7, LOGIN, 192.168.56.128:60002, success, 2 
+05/06/16-04:49PM, Rob8, CMD, /time, success, client
+05/06/16-04:49PM, Rob7, CMD, /time, success, client
+05/06/16-04:49PM, Rob8, CMD, /time, success, client
+05/06/16-04:49PM, Rob7, CMD, /time, success, client
+05/06/16-04:49PM, Rob8, CMD, /help, success, client
+05/06/16-04:49PM, Rob7, CMD, /help, success, client
+05/06/16-04:49PM, Rob8, CMD, /audit, success, client
+05/06/16-04:49PM, Rob7, CMD, /audit, success, client
+05/06/16-04:50PM, Rob8, CMD, /audit, success, client
+05/06/16-04:50PM, Rob7, CMD, /audit, success, client
+05/06/16-04:50PM, Rob8, CMD, /help, success, client
+05/06/16-04:50PM, Rob7, CMD, /help, success, client
+05/06/16-04:51PM, Rob7, CMD, /chat, success, client
+05/06/16-04:51PM, Rob8, CMD, /chat, success, client
+05/06/16-05:01PM, Rob2, LOGIN, 192.168.56.128:60003, success, testing locks 
+05/06/16-05:01PM, Rob2, LOGOUT, error
+05/06/16-05:01PM, Rob1, LOGOUT, error
+05/06/16-05:02PM, Rob2, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-05:02PM, Rob1, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-05:02PM, Rob2, CMD, /time, success, client
+05/06/16-05:02PM, Rob1, CMD, /time, success, client
+05/06/16-05:02PM, Rob2, LOGOUT, intentional
+05/06/16-05:02PM, Rob1, LOGOUT, intentional
+05/06/16-05:10PM, Rob1, LOGIN, 192.168.56.128:60004, fail, ERR 00 USER NAME TAKEN
+05/06/16-05:10PM, Rob2, LOGIN, 192.168.56.128:60004, fail, ERR 00 USER NAME TAKEN
+05/06/16-05:12PM, Rob4, LOGOUT, error
+05/06/16-05:12PM, Rob3, LOGIN, 192.168.56.128:60005, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-05:13PM, Rob4, LOGIN, 192.168.56.128:60006, success, testing locks 
+05/06/16-05:13PM, Rob3, LOGIN, 192.168.56.128:60006, success, testing locks 
+05/06/16-05:13PM, Rob4, CMD, /time, success, client
+05/06/16-05:13PM, Rob3, CMD, /time, success, client
+05/06/16-05:13PM, Rob4, LOGOUT, intentional
+05/06/16-05:13PM, Rob4, CMD, /logout, success, client
+05/06/16-05:13PM, Rob3, LOGOUT, intentional
+05/06/16-05:13PM, Rob3, CMD, /logout, success, client
+05/06/16-05:16PM, Rob4, CMD, ls, fail, client
+05/06/16-05:16PM, Rob3, CMD, ls, fail, client
+05/06/16-05:16PM, Rob4, CMD, /help, success, client
+05/06/16-05:16PM, Rob3, CMD, /help, success, client
+05/06/16-05:24PM, Rob6, LOGIN, 192.168.56.128:60006, success, testing locks 
+05/06/16-05:24PM, Rob6, LOGIN, 192.168.56.128:60006, success, testing locks 
+05/06/16-05:24PM, Rob6, CMD, /time, success, client
+05/06/16-05:24PM, Rob6, CMD, /time, success, client
+05/06/16-05:24PM, Rob6, LOGOUT, intentional
+05/06/16-05:24PM, Rob6, CMD, /logout, success, client
+05/06/16-05:24PM, Rob6, LOGOUT, intentional
+05/06/16-05:24PM, Rob6, CMD, /logout, success, client
+05/06/16-05:42PM, Rob4, LOGIN, 192.168.56.128:60006, fail, ERR 00 USER NAME TAKEN
+05/06/16-05:42PM, Rob4, LOGIN, 192.168.56.128:60006, success, testing locks 
+05/06/16-05:44PM, Rob4, LOGOUT, intentional
+05/06/16-05:59PM, Rob3, LOGIN, 192.168.56.128:60000, fail, ERR 02 BAD PASSWORD
+05/06/16-05:59PM, Rob1, LOGIN, 192.168.56.128:60000, fail, ERR 02 BAD PASSWORD
+05/06/16-06:01PM, Rob1, LOGIN, 192.168.56.128:60000, fail, ERR 02 BAD PASSWORD
+05/06/16-06:10PM, Rob1, LOGOUT, error
+05/06/16-06:11PM, Rob1, LOGOUT, error
+05/06/16-06:12PM, Rob1, LOGIN, 192.168.56.128:60003, success, testing locks 
+05/06/16-06:12PM, Rob1, CMD, /time, success, client
+05/06/16-06:12PM, Rob2, LOGIN, 192.168.56.128:60003, success, testing locks 
+05/06/16-06:12PM, Rob2, CMD, /time, success, client
+05/06/16-06:12PM, Rob1, LOGOUT, intentional
+05/06/16-06:12PM, Rob2, CMD, /time, success, client
+05/06/16-06:12PM, Rob2, LOGOUT, intentional
+05/06/16-06:12PM, Rob2, CMD, /logout, success, client
+05/06/16-06:13PM, Rob2, LOGIN, 192.168.56.128:60003, success, testing locks 
+05/06/16-06:13PM, Rob2, CMD, /time, success, client
+05/06/16-06:16PM, Rob2, LOGOUT, intentional
+05/06/16-06:17PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-06:17PM, Rob3, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-06:18PM, Rob6, LOGOUT, error
+05/06/16-06:18PM, Rob5, LOGIN, 192.168.56.128:60003, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-06:18PM, Rob3, LOGIN, 192.168.56.128:60003, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-06:19PM, Rob4, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-06:19PM, Rob5, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-06:19PM, Rob3, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-06:20PM, Rob6, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-06:20PM, Rob6, CMD, /listu, success, client
+05/06/16-06:41PM, Rob6, CMD, /time, success, client
+05/06/16-06:41PM, Rob3, CMD, /time, success, client
+05/06/16-06:41PM, Rob4, CMD, /time, success, client
+05/06/16-06:41PM, Rob5, CMD, /time, success, client
+05/06/16-06:41PM, Rob4, CMD, /listu, success, client
+05/06/16-06:41PM, Rob5, CMD, /listu, success, client
+05/06/16-06:41PM, Rob6, CMD, /listu, success, client
+05/06/16-06:41PM, Rob3, CMD, /listu, success, client
+05/06/16-06:41PM, Rob4, CMD, /listu, success, client
+05/06/16-06:41PM, Rob5, CMD, /listu, success, client
+05/06/16-06:41PM, Rob3, CMD, /listu, success, client
+05/06/16-06:41PM, Rob6, CMD, /listu, success, client
+05/06/16-06:41PM, Rob4, CMD, /listu, success, client
+05/06/16-06:41PM, Rob6, CMD, /listu, success, client
+05/06/16-06:41PM, Rob5, CMD, /listu, success, client
+05/06/16-06:41PM, Rob3, CMD, /listu, success, client
+05/06/16-06:41PM, Rob6, CMD, /listu, success, client
+05/06/16-06:41PM, Rob5, CMD, /listu, success, client
+05/06/16-06:41PM, Rob4, CMD, /listu, success, client
+05/06/16-06:41PM, Rob3, CMD, /listu, success, client
+05/06/16-06:41PM, Rob4, CMD, /time, success, client
+05/06/16-06:41PM, Rob5, CMD, /time, success, client
+05/06/16-06:41PM, Rob3, CMD, /time, success, client
+05/06/16-06:41PM, Rob6, CMD, /time, success, client
+05/06/16-06:45PM, Rob10, LOGIN, 192.168.56.128:60004, fail, ERR 02 BAD PASSWORD
+05/06/16-06:45PM, Rob10, LOGIN, 192.168.56.128:60004, fail, ERR 02 BAD PASSWORD
+05/06/16-06:45PM, Rob10, LOGIN, 192.168.56.128:60004, fail, ERR 01 USER NOT AVAILABLE
+05/06/16-06:46PM, Rob4, LOGIN, 192.168.56.128:60004, fail, ERR 00 USER NAME TAKEN
+05/06/16-06:46PM, Rob10, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-06:47PM, Rob10, CMD, /users, fail, client
+05/06/16-06:48PM, Rob4, CMD, /time, success, client
+05/06/16-06:48PM, Rob6, CMD, /time, success, client
+05/06/16-06:48PM, Rob3, CMD, /time, success, client
+05/06/16-06:48PM, Rob5, CMD, /time, success, client
+05/06/16-06:52PM, Rob4, CMD, /listu, success, client
+05/06/16-06:52PM, Rob10, LOGIN, 192.168.56.128:60004, success, testing locks 
+05/06/16-06:52PM, Rob10, CMD, /listu, success, client
+05/06/16-06:53PM, Rob6, LOGOUT, error
+05/06/16-06:53PM, Rob4, LOGOUT, intentional
+05/06/16-06:53PM, Rob4, CMD, /logout, success, client
+05/06/16-06:53PM, Rob3, LOGOUT, intentional
+05/06/16-06:53PM, Rob5, LOGOUT, intentional
+05/06/16-06:53PM, Rob5, CMD, /logout, success, client
+05/06/16-06:53PM, Rob3, CMD, /logout, success, client
+05/06/16-06:54PM, Rob10, CMD, /time, success, client
+05/06/16-06:54PM, Rob10, CMD, /listu, success, client
+05/06/16-08:10PM, Rob10, LOGOUT, error
+05/06/16-08:19PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:19PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:19PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:19PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:23PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:24PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:24PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:24PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:27PM, Rob4, LOGIN, 192.168.56.128:60003, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-08:27PM, Rob4, LOGOUT, error
+05/06/16-08:27PM, Rob4, LOGIN, 192.168.56.128:60003, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-08:28PM, Rob4, LOGOUT, error
+05/06/16-08:28PM, Rob4, LOGIN, 192.168.56.128:60004, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-08:28PM, Rob4, LOGIN, 192.168.56.128:60004, fail, INTERNAL SERVER ERROR: BAD PROTOCOL
+05/06/16-08:29PM, Rob4, LOGOUT, error
+05/06/16-08:34PM, Rob4, LOGOUT, error
+05/06/16-08:34PM, Rob4, LOGOUT, error
+05/06/16-08:43PM, Rob4, LOGIN, 192.168.56.128:60003, success, testing locks 
+05/06/16-08:43PM, Rob4, LOGOUT, intentional
+05/06/16-08:44PM, Rob4, LOGOUT, error
+05/06/16-08:44PM, Rob4, LOGOUT, error
+05/06/16-08:49PM, Rob4, LOGIN, 192.168.56.128:60005, success, testing 
+05/06/16-08:49PM, Rob4, LOGOUT, intentional
+05/06/16-08:49PM, Rob4, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-08:55PM, Rob4, LOGIN, 192.168.56.128:60003, success, testing locks 
+05/06/16-08:56PM, Rob4, LOGOUT, error
+05/06/16-08:57PM, Rob4, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-08:57PM, Rob1, LOGOUT, error
+05/06/16-09:02PM, Rob1, LOGOUT, error
+05/06/16-09:04PM, Rob1, LOGIN, 192.168.56.128:60007, success, testing 
+05/06/16-09:05PM, Rob1, LOGOUT, intentional
+05/06/16-09:05PM, Rob1, LOGIN, 192.168.56.128:60007, success, testing 
+05/06/16-09:05PM, Rob1, CMD, /time, success, client
+05/06/16-09:06PM, Rob4, LOGIN, 192.168.56.128:60007, fail, ERR 02 BAD PASSWORD
+05/06/16-09:15PM, Rob1, LOGIN, 192.168.56.128:60003, fail, ERR 01 USER NOT AVAILABLE
+05/06/16-09:16PM, Rob1, LOGIN, 192.168.56.128:60003, fail, ERR 02 BAD PASSWORD
+05/06/16-09:20PM, Rob1, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-09:20PM, Rob1, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-09:20PM, Rob1, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-09:20PM, Rob1, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-09:20PM, Rob1, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-09:20PM, Rob1, CMD, /time, success, client
+05/06/16-09:20PM, Rob4, LOGIN, 192.168.56.128:60005, fail, ERR 01 USER NOT AVAILABLE
+05/06/16-09:20PM, Rob1, CMD, /time, success, client
+05/06/16-09:20PM, Rob4, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-09:20PM, Rob1, CMD, /time, success, client
+05/06/16-09:20PM, Rob4, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-09:21PM, Rob1, CMD, /time, success, client
+05/06/16-09:21PM, Rob1, CMD, /listu, success, client
+05/06/16-09:21PM, Rob4, CMD, /listu, success, client
+05/06/16-09:21PM, Rob1, LOGOUT, intentional
+05/06/16-09:21PM, Rob1, CMD, /logout, success, client
+05/06/16-09:21PM, Rob4, CMD, /time, success, client
+05/06/16-09:21PM, Rob1, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-09:21PM, Rob4, CMD, /time, success, client
+05/06/16-09:21PM, Rob1, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-09:21PM, Rob4, CMD, /time, success, client
+05/06/16-09:24PM, Rob4, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-09:25PM, Rob45, LOGIN, 192.168.56.128:60005, fail, ERR 01 USER NOT AVAILABLE
+05/06/16-09:25PM, Rob4, CMD, /time, success, client
+05/06/16-09:26PM, Rob4, CMD, , fail, client
+05/06/16-09:26PM, Rob4, CMD, /time, success, client
+05/06/16-09:28PM, Rob6, LOGOUT, error
+05/06/16-09:28PM, Rob4, CMD, , fail, client
+05/06/16-09:28PM, Rob4, LOGOUT, error
+05/06/16-09:30PM, Rob7, LOGOUT, error
+05/06/16-09:49PM, Rob5, LOGOUT, error
+05/06/16-09:52PM, Rob5, LOGOUT, error
+05/06/16-09:55PM, Rob5, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-09:57PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-09:59PM, Rob5, LOGOUT, error
+05/06/16-10:03PM, Rob5, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-10:03PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:03PM, Rob5, LOGOUT, intentional
+05/06/16-10:03PM, Rob5, CMD, /logout, success, client
+05/06/16-10:04PM, Rob9, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:04PM, Rob8, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:04PM, Rob9, CMD, /listu, success, client
+05/06/16-10:04PM, Rob8, CMD, /listu, success, client
+05/06/16-10:04PM, Rob9, LOGOUT, intentional
+05/06/16-10:04PM, Rob9, CMD, /logout, success, client
+05/06/16-10:04PM, Rob8, LOGOUT, intentional
+05/06/16-10:04PM, Rob8, CMD, /logout, success, client
+05/06/16-10:07PM, Rob11, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-10:07PM, Rob11, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-10:08PM, Rob11, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:08PM, Rob11, LOGOUT, intentional
+05/06/16-10:08PM, Rob11, CMD, /logout, success, client
+05/06/16-10:09PM, Rob11, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-10:09PM, Rob11, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:13PM, Rob11, CMD, /listu, success, client
+05/06/16-10:16PM, Rob11, CMD, /listu, success, client
+05/06/16-10:16PM, Rob11, LOGIN, 192.168.56.128:60005, fail, ERR 00 USER NAME TAKEN
+05/06/16-10:17PM, Rob11, CMD, /listu, success, client
+05/06/16-10:18PM, Rob8, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:18PM, Rob8, CMD, /listu, success, client
+05/06/16-10:25PM, Rob8, CMD, , fail, client
+05/06/16-10:25PM, Rob11, CMD, , fail, client
+05/06/16-10:25PM, Rob8, CMD, sdSD23@#, fail, client
+05/06/16-10:25PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:25PM, Rob9, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:25PM, Rob11, CMD, sdSD23@#, fail, client
+05/06/16-10:25PM, Rob5, LOGOUT, intentional
+05/06/16-10:25PM, Rob5, CMD, /logout, success, client
+05/06/16-10:25PM, Rob8, LOGOUT, intentional
+05/06/16-10:25PM, Rob8, CMD, /logout, success, client
+05/06/16-10:25PM, Rob11, LOGOUT, intentional
+05/06/16-10:25PM, Rob11, CMD, /logout, success, client
+05/06/16-10:25PM, Rob9, LOGOUT, intentional
+05/06/16-10:25PM, Rob9, CMD, /logout, success, client
+05/06/16-10:33PM, Rob11, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:33PM, Rob8, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:33PM, Rob11, CMD, /listu, success, client
+05/06/16-10:33PM, Rob8, CMD, /listu, success, client
+05/06/16-10:37PM, Rob9, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:37PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:37PM, Rob8, CMD, /listu, success, client
+05/06/16-10:37PM, Rob11, CMD, /listu, success, client
+05/06/16-10:56PM, Rob11, LOGOUT, intentional
+05/06/16-10:56PM, Rob11, CMD, /logout, success, client
+05/06/16-10:56PM, Rob5, LOGOUT, intentional
+05/06/16-10:56PM, Rob9, LOGOUT, intentional
+05/06/16-10:56PM, Rob5, CMD, /logout, success, client
+05/06/16-10:56PM, Rob9, CMD, /logout, success, client
+05/06/16-10:56PM, Rob8, LOGOUT, intentional
+05/06/16-10:56PM, Rob8, CMD, /logout, success, client
+05/06/16-10:57PM, Rob8, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:57PM, Rob11, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:57PM, Rob9, LOGIN, 192.168.56.128:60005, fail, ERR 02 BAD PASSWORD
+05/06/16-10:57PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:57PM, Rob9, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:57PM, Rob9, CMD, /listu, success, client
+05/06/16-10:57PM, Rob11, CMD, /listu, success, client
+05/06/16-10:59PM, Rob9, LOGOUT, intentional
+05/06/16-10:59PM, Rob9, CMD, /logout, success, client
+05/06/16-10:59PM, Rob11, LOGOUT, intentional
+05/06/16-10:59PM, Rob11, CMD, /logout, success, client
+05/06/16-10:59PM, Rob5, LOGOUT, intentional
+05/06/16-10:59PM, Rob8, LOGOUT, intentional
+05/06/16-10:59PM, Rob8, CMD, /logout, success, client
+05/06/16-10:59PM, Rob5, CMD, /logout, success, client
+05/06/16-10:59PM, Rob8, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:59PM, Rob9, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:59PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:59PM, Rob11, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-10:59PM, Rob11, CMD, /listu, success, client
+05/06/16-11:01PM, Rob8, LOGOUT, intentional
+05/06/16-11:01PM, Rob8, CMD, /logout, success, client
+05/06/16-11:01PM, Rob11, LOGOUT, intentional
+05/06/16-11:01PM, Rob11, CMD, /logout, success, client
+05/06/16-11:01PM, Rob5, LOGOUT, intentional
+05/06/16-11:01PM, Rob5, CMD, /logout, success, client
+05/06/16-11:01PM, Rob9, LOGOUT, intentional
+05/06/16-11:01PM, Rob9, CMD, /logout, success, client
+05/06/16-11:02PM, Rob8, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-11:02PM, Rob9, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-11:02PM, Rob5, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-11:02PM, Rob11, LOGIN, 192.168.56.128:60005, success, testing locks 
+05/06/16-11:02PM, Rob11, CMD, /listu, success, client
+05/06/16-11:05PM, Rob11, CMD, /listu, success, client
+05/06/16-11:05PM, Rob9, CMD, /listu, success, client
+05/06/16-11:05PM, Rob8, CMD, /listu, success, client
+05/06/16-11:05PM, Rob5, CMD, /listu, success, client
+05/06/16-11:06PM, Rob5, CMD, /listu, success, client
+05/06/16-11:06PM, Rob9, LOGOUT, intentional
+05/06/16-11:06PM, Rob9, CMD, /logout, success, client
+05/06/16-11:06PM, Rob11, CMD, /listu, success, client
+05/06/16-11:06PM, Rob8, LOGOUT, intentional
+05/06/16-11:06PM, Rob8, CMD, /logout, success, client
+05/06/16-11:07PM, Rob5, LOGOUT, intentional
+05/06/16-11:07PM, Rob11, LOGOUT, intentional
+05/06/16-11:29PM, Rob5, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:29PM, Rob5, CMD, /listu, success, client
+05/06/16-11:29PM, Rob5, CMD, /time, success, client
+05/06/16-11:33PM, Rob5, CMD, , fail, client
+05/06/16-11:34PM, Rob5, CMD, /listu, success, client
+05/06/16-11:34PM, Rob5, CMD, /listu, success, client
+05/06/16-11:34PM, Rob6, LOGIN, 192.168.56.128:60000, fail, ERR 02 BAD PASSWORD
+05/06/16-11:34PM, Rob5, CMD, d, fail, client
+05/06/16-11:34PM, Rob5, CMD, /time, success, client
+05/06/16-11:35PM, Rob5, CMD, /listu, success, client
+05/06/16-11:36PM, Rob6, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:36PM, Rob6, LOGIN, 192.168.56.128:60000, fail, ERR 00 USER NAME TAKEN
+05/06/16-11:36PM, Rob9, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:36PM, Rob5, CMD, /listu, success, client
+05/06/16-11:36PM, Rob9, CMD, /listu, success, client
+05/06/16-11:36PM, Rob6, CMD, /listu, success, client
+05/06/16-11:36PM, Rob5, CMD, /listu, success, client
+05/06/16-11:36PM, Rob5, CMD, /listu, success, client
+05/06/16-11:36PM, Rob6, LOGOUT, intentional
+05/06/16-11:36PM, Rob9, LOGOUT, intentional
+05/06/16-11:36PM, Rob9, CMD, /logout, success, client
+05/06/16-11:36PM, Rob6, CMD, /logout, success, client
+05/06/16-11:39PM, Rob5, LOGOUT, intentional
+05/06/16-11:40PM, Rob5, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:40PM, Rob5, CMD, /listu, success, client
+05/06/16-11:40PM, Rob5, CMD, /time, success, client
+05/06/16-11:40PM, Rob6, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:40PM, Rob6, LOGOUT, intentional
+05/06/16-11:40PM, Rob6, CMD, /logout, success, client
+05/06/16-11:40PM, Rob5, CMD, /time, success, client
+05/06/16-11:42PM, Rob6, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:42PM, Rob6, LOGIN, 192.168.56.128:60000, fail, ERR 00 USER NAME TAKEN
+05/06/16-11:42PM, Rob6, LOGIN, 192.168.56.128:60000, fail, ERR 00 USER NAME TAKEN
+05/06/16-11:42PM, Rob11, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:42PM, Rob5, CMD, , fail, client
+05/06/16-11:42PM, Rob11, LOGOUT, intentional
+05/06/16-11:42PM, Rob11, CMD, /logout, success, client
+05/06/16-11:42PM, Rob6, LOGOUT, intentional
+05/06/16-11:42PM, Rob6, CMD, /logout, success, client
+05/06/16-11:42PM, Rob5, CMD, /time, success, client
+05/06/16-11:42PM, Rob5, CMD, /listu, success, client
+05/06/16-11:42PM, Rob5, CMD, /time, success, client
+05/06/16-11:43PM, Rob5, CMD, [A[A[A[A, fail, client
+05/06/16-11:43PM, Rob11, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:43PM, Rob6, LOGIN, 192.168.56.128:60000, success, test 
+05/06/16-11:43PM, Rob5, CMD, sdSD23@#, fail, client
+05/06/16-11:43PM, Rob5, CMD, /listu, success, client
+05/06/16-11:43PM, Rob6, LOGOUT, intentional
+05/06/16-11:43PM, Rob6, CMD, /logout, success, client
+05/06/16-11:43PM, Rob11, LOGOUT, intentional
+05/06/16-11:43PM, Rob11, CMD, /logout, success, client
+05/06/16-11:43PM, Rob5, CMD, /time, success, client
+05/06/16-11:44PM, Rob5, LOGOUT, error
+05/06/16-11:45PM, Rob5, LOGIN, 192.168.56.128:60001, success, test 
+05/06/16-11:45PM, Rob5, LOGOUT, error
+05/06/16-11:48PM, Rob5, LOGIN, 192.168.56.128:60001, success, test 
+05/06/16-11:48PM, Rob5, CMD, /audit, success, client
+05/06/16-11:48PM, Rob5, LOGOUT, intentional
+05/06/16-11:49PM, Rob5, LOGIN, 192.168.56.128:60001, fail, ERR 02 BAD PASSWORD
+05/06/16-11:49PM, Rob5, LOGIN, 192.168.56.128:60001, success, test 
+05/06/16-11:50PM, Rob5, CMD, htop, fail, client
+05/06/16-11:50PM, Rob5, CMD, OSserver[B[B[B[B[B[20~9, fail, client
+05/06/16-11:50PM, Rob5, LOGOUT, error
+05/20/16-11:43PM, Kevin, LOGIN, 192.168.56.128:60000, fail, ERR 02 BAD PASSWORD
+05/20/16-11:43PM, Kevin, LOGIN, 192.168.56.128:60000, success, welcome to my server Silvio and Kevin! 
+05/20/16-11:44PM, Sil, LOGIN, 192.168.56.128:60000, success, welcome to my server Silvio and Kevin! 
+05/20/16-11:44PM, Sil, CMD, /listu, success, client
+05/20/16-11:45PM, Kevin, CMD, /chat, success, client
+05/20/16-11:46PM, Sil, LOGIN, 192.168.56.128:60001, fail, ERR 00 USER NAME TAKEN
+05/20/16-11:46PM, Sil, LOGIN, 192.168.56.128:60001, fail, ERR 00 USER NAME TAKEN
+05/20/16-11:46PM, Sil, LOGIN, 192.168.56.128:60001, success, welcome to my server Silvio and Kevin! 
+05/20/16-11:47PM, Sil, CMD, /time, success, client
+05/20/16-11:47PM, Kevin, LOGIN, 192.168.56.128:60001, success, welcome to my server Silvio and Kevin! 
+05/20/16-11:47PM, Kevin, CMD, /chat, success, client
+05/20/16-11:50PM, Sil, LOGIN, 192.168.56.128:60002, success, welcome to my server Silvio and Kevin! 
+05/20/16-11:51PM, Kevin, LOGIN, 192.168.56.128:60002, success, welcome to my server Silvio and Kevin! 
+05/20/16-11:51PM, Kevin, CMD, /chat, success, client
+05/20/16-11:51PM, Sil, MSG, from, Kevin, hey sil 
+05/20/16-11:51PM, Kevin, MSG, to, Sil, hey sil 
+05/20/16-11:51PM, Kevin, MSG, from, Sil, lil bitch
+05/20/16-11:51PM, Sil, MSG, to, Kevin, lil bitch
+05/20/16-11:52PM, Sil, MSG, to, Kevin, my nigga
+05/20/16-11:52PM, Kevin, MSG, from, Sil, my nigga
+05/20/16-11:52PM, Sil, MSG, from, Kevin, yooooooo poop
+05/20/16-11:52PM, Kevin, MSG, to, Sil, yooooooo poop
+05/20/16-11:52PM, Kevin, MSG, to, Sil, tits
+05/20/16-11:52PM, Sil, MSG, from, Kevin, tits
+05/20/16-11:53PM, Sil, MSG, from, Kevin, lil bitch on the hill
+05/20/16-11:53PM, Kevin, MSG, to, Sil, lil bitch on the hill
+05/20/16-11:53PM, Kevin, CMD, /close, success, chat
+05/20/16-11:53PM, Kevin, CMD, /audit, success, client
+05/20/16-11:54PM, Kevin, LOGOUT, error
+05/20/16-11:54PM, Sil, LOGOUT, error
